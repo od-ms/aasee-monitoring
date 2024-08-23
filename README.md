@@ -19,3 +19,5 @@ Bitte beachten Sie bei der Nutzung dieser Daten: Es handelt sich um ungeprüfte 
 
 Falls Sie Interesse an weiteren Open-Data-Datensätze der Stadt Münster haben, besuchen Sie unser kommunales Open-Data-Portal unter https://opendata.stadt-muenster.de. 
 
+Umfangreiche Informationen zum Gewässermonitoring sowie wissenschaftliche Studien zur Gewässerqualität des Aasee finden Sie in den Anlagen zur Ratsvorlage V/0235/2022 "Resilienzstrategie und Handlungskonzept für den Aasee" im Ratsinformationssystem Münster, zum PDF-Download auf folgender Internetseite unter "Dokumente":
+https://www.stadt-muenster.de/sessionnet/sessionnetbi/vo0050.php?__kvonr=2004050429
